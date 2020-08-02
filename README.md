@@ -14,3 +14,4 @@ Pentru a functiona logarea cu Firebase, pornind de la fisierul `firebase.templat
 #### 4. `npm start`
 
 
+# Sports-Shop
