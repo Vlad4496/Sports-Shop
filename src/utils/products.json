@@ -3,234 +3,211 @@
         "items": [
             {
                 "id": 1,
-                "name": "Sneakerși piele Massimo Dutti",
-                "price": 135,
+                "name": "Tennis Shoes Adidas",
+                "price": 335,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Rz8lVQa.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Sneakerși din piele cu talpă inițial albă, din colecția de toamnă-iarnă 2019, Massimo Dutti."
+                "image": "https://i.factcool.com/cache2/1400x1400/catalog/products/14/14504630_xxl.jpg",
+                "size": 44,
+                "colour": "White",
+                "material": "Leather",
+                "brand": "Adidas",
+                "description": "Tennis Shoes from Adidas, with the signature of Roger Federer"
             },
             {
                 "id": 2,
-                "name": "Teniși negri Polo Ralph Lauren",
-                "price": 100,
+                "name": "Tennis Equipment Babolat",
+                "price": 400,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Og3Oh24.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Pânză",
-                "brand": "Polo Ralph Lauren",
-                "description": "Teniși din pânză cu talpă inițial albă, din colecția de primăvară-vară 2019, Fashion Days."
+                "image": "https://www.tenisshop.ro/blog/wp-content/uploads/2015/10/4.jpg",
+                "size": "S, M, L, XL, XXL",
+                "colour": "Red/Blue",
+                "material": "Cotton",
+                "brand": "Babolat",
+                "description": "Great Equipment for Tennis."
             },
             {
                 "id": 3,
-                "name": "Ghete din piele maro Massimo",
-                "price": 185,
+                "name": "Tennis Raquet",
+                "price": 985,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/zoqSu87.jpg",
-                "size": 45,
-                "colour": "Maro",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
+                "image": "https://cdn.hervis.ro/medias/sys_master/images/images/h34/h88/10900472528926/Wilson-FEDERER-103-Rosu-Adulti-L2-L3-2305178-00-138502.jpg",
+                "size": 320,
+                "colour": "Red/Black",
+                "material": "Iron",
+                "brand": "Wilson",
+                "description": "This raquet has the signature of Roger Federer"
             }
         ],
-        "image": "https://i.imgur.com/X0qldXO.jpg",
-        "name": "Încălțăminte",
-        "description": "Ghete, pantofi, sneakerși: finețe garantată!"
+        "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "name": "Tennis Accesories",
+        "description": "Tennis Shoes, Equipments, Rackets"
     },
     "sweaters": {
         "items": [
             {
                 "id": 4,
-                "name": "Pulovăr finuț cu guler",
-                "price": 95,
+                "name": "Football Shoes",
+                "price": 195,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/6afzuEr.jpg",
-                "size": "L",
-                "colour": "Maro",
-                "material": "Cașmir",
-                "brand": "DS Damat",
-                "description": "Pulovăr din cașmir, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://mybrand.shoes/159507-large_default/football-shoes-nike-mercurial-superfly-6-elite-ag-pro-m-ah7377-701.jpg",
+                "size": "44/45",
+                "colour": "Yellow",
+                "material": "Leather",
+                "brand": "Nike",
+                "description": "Best shoes of 2020."
             },
             {
                 "id": 5,
-                "name": "Pulovăr multicolor",
-                "price": 105,
+                "name": "Football Equipment (Collection)",
+                "price": 3505,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/s0VytKc.jpg",
-                "size": "L",
+                "image": "https://keepinitrealsoccer.com/wp-content/uploads/2015/08/soccer-products.gif",
+                "size": "all",
                 "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "McNeal",
-                "description": "Pulovăr multicolor, colecția toamnă-iarnă 209, McNeal."
+                "material": "Cotton",
+                "brand": "All",
+                "description": "Collection of multiple brands."
             },
             {
                 "id": 6,
-                "name": "Pulovăr călduros și frumos",
+                "name": "Ball/Accesories",
                 "price": 165,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWGgzlK.jpg",
-                "size": "L",
+                "image": "https://i.pinimg.com/736x/04/9d/a2/049da27606cf4650b9f3971be8087726.jpg",
+                "size": "",
                 "colour": "Multicolor",
-                "material": "Lână",
+                "material": "",
                 "brand": "SELECTED",
-                "description": "Pulovăr din lână, în carouri, colecția toamnă-iarnă 2019, SELECTED."
-            },
-            {
-                "id": 7,
-                "name": "Pulovăr din lână",
-                "price": 160,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/dTcMbHT.jpg",
-                "size": "L",
-                "colour": "Crem",
-                "material": "Lână",
-                "brand": "Massimo Dutti",
-                "description": "Pulovăr din lână cu model, colecția toamnă-iarnă 2019, Massimo Dutti."
+                "description": "Signature with accesories."
             }
+            
         ],
-        "image": "https://i.imgur.com/SZU7liE.jpg",
-        "name": "Pulovere",
-        "description": "Pulovărașe elegănțele, slim, clasă superioară."
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Football Accesories",
+        "description": "Football Shoes, Equipments, Signature Ball, Accesories"
     },
     "pants": {
         "items": [
             {
                 "id": 8,
-                "name": "Blugi bleumarin slim fit",
-                "price": 35,
+                "name": "Basketball Ball",
+                "price": 535,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/VhpATO8.jpg",
-                "size": "34",
-                "colour": "Bleumarin închis",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi bleumarin, slim fit, colecția primăvară-vară 2019, DS Damat."
+                "image": "https://sc01.alicdn.com/kf/Hf24fdb82987242e796f397f961f8f6a2I.jpg_350x350.jpg",
+                "size": "",
+                "colour": "Brown",
+                "material": "Ball",
+                "brand": "China",
+                "description": "Signature of Michael Jordan"
             },
             {
                 "id": 9,
-                "name": "Blugi negri slim fit",
-                "price": 40,
+                "name": "Basketball Shoes",
+                "price": 440,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/weiI07t.jpg",
-                "size": "34",
-                "colour": "Negru-gri",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi negri, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/ps5ma8puhilbhxc6zswc/adidas-crazy-explosive-low-primeknit-cover",
+                "size": "47",
+                "colour": "Red",
+                "material": "Cotton",
+                "brand": "Nike",
+                "description": "Best feeling"
             }
         ],
-        "image": "https://i.imgur.com/srQCDRN.jpg",
-        "name": "Pantaloni/blugi",
-        "description": "Jeanși și pantaloni pentru baieții care și-o ard patroni!"
+        "image": "https://images.unsplash.com/photo-1474224017046-182ece80b263?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=500&q=60",
+        "name": "Basketball Accesories",
+        "description": "Basketball Shoes, Equipments and more"
     },
     "jackets": {
         "items": [
             {
                 "id": 10,
-                "name": "Haină lungă din lână virgină",
-                "price": 210,
+                "name": "Pants",
+                "price": 320,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/IXrZitQ.jpg",
-                "size": "L",
-                "colour": "Gri închis",
-                "material": "Lână virgină",
+                "image": "https://ae01.alicdn.com/kf/Hdb2ffb43d9a9401abe640a559ad64da3c/Outdoor-Hiking-Pants-Men-Summer-Quick-Dry-Mountain-Climbing-Fishing-Trousers-Army-Trekking-Sport-Waterproof-Detachable.jpg_q50.jpg",
+                "size": "45",
+                "colour": "Grey",
+                "material": "Leather",
                 "brand": "Peek and Cloppenburg",
-                "description": "Haină lungă din lână virgină, colecția toamnă-iarnă 2018, Peek and Cloppenburg."
+                "description": "Fall collection"
             },
             {
                 "id": 11,
-                "name": "Geacă bleumarin cu glugă detașabilă",
-                "price": 250,
+                "name": "Long wool coat",
+                "price": 300,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/eCZd7PU.jpg",
-                "size": "L",
-                "colour": "Bleumarin",
-                "material": "Poliester",
+                "image": "https://s12emagst.akamaized.net/products/19966/19965202/images/res_e365bf46e77b4181e9ed6e32ce7eb90e_full.jpg",
+                "size": "M/L",
+                "colour": "Grey",
+                "material": "Leather",
                 "brand": "DS Damat",
-                "description": "Geacă bleumarin cu glugă detașabilă, colecția toamnă-iarnă 2019, DS Damat."
+                "description": "Fall Collection"
             }
         ],
-        "image": "https://i.imgur.com/81I6Oab.jpg",
-        "name": "Geci/Haine",
-        "description": "Confortabile, călduroase și nu arăți ca un cartof!"
+        "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Hiking Equipments",
+        "description": "You can find here anything you need for an adventure in the mountains!"
     },
     "tshirts": {
         "items": [
             {
                 "id": 12,
-                "name": "Tricou în dungi",
-                "price": 90,
+                "name": "Zoogs Green Swim Jacket",
+                "price": 190,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWvzCwB.jpg",
+                "image": "https://media.4rgos.it/i/Argos/7428025_R_Z001A?w=750&h=440&qlt=70",
                 "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "Lacoste",
-                "description": "Tricou în dungi, colecția primăvară-vară 2019, Lacoste."
+                "colour": "Green",
+                "material": "Cotton",
+                "brand": "Calvin Klein",
+                "description": "Thousands of products for same day delivery £3.95, or fast store collection."
             },
             {
                 "id": 13,
-                "name": "Tricou de ping pong",
-                "price": 110,
+                "name": "Swimming Accesories",
+                "price": 310,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/4BbF4TO.jpg",
-                "size": "L",
-                "colour": "Roșu",
-                "material": "Poliester",
-                "brand": "Li Ning",
-                "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
-            },
-            {
-                "id": 14,
-                "name": "Tricou original BVB cu autograf",
-                "price": 1909,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/etIsbHV.jpg",
-                "size": "L",
-                "colour": "Galben-Negru",
-                "material": "Poliester",
-                "brand": "Puma",
-                "description": "Tricoul purtat de Borussia Dortmund în sezonul competițional 2018-2019, cu numarul 7 și numele 'SANCHO'. Tricoul este semnat de portarul Borussiei, Roman Burki."
+                "image": "https://m.media-amazon.com/images/I/81iijcbd9sL._SR500,500_.jpg",
+                "size": "All",
+                "colour": "Blue",
+                "material": "Plastic",
+                "brand": "InterSport",
+                "description": "Best Quality, you wont drown with this."
             }
         ],
-        "image": "https://i.imgur.com/l27WtFL.jpg",
-        "name": "Tricouri",
-        "description": "Și de băiețeală și de sport."
+        "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Swimming Equipments",
+        "description": "Best Prices Here!"
     },
     "accesories": {
         "items": [
             {
                 "id": 15,
-                "name": "Fular TJ cu două fețe",
-                "price": 85,
+                "name": "Rugby Balls",
+                "price": 285,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/rSVUiLO.jpg",
+                "image": "https://contents.mediadecathlon.com/p1822149/kd7233887bc7cbbb5244bdb946ccfe375/minge-gilbert-kinetica-t5.jpg?format=auto&quality=60&f=500x0",
                 "size": "Universal",
-                "colour": "Gri-Bleumarin",
-                "material": "Cașmir",
-                "brand": "Trussardi Jeans",
-                "description": "Fular cu imprimeu, din colecția toamnă-iarnă 2018, Trussardi Jeans."
+                "colour": "White/Red/Blue",
+                "material": "rubber",
+                "brand": "Nike",
+                "description": "Just take it!"
             },
             {
                 "id": 16,
-                "name": "Mănuși din piele",
-                "price": 60,
+                "name": "Rugby Full Equipment",
+                "price": 760,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/LbjGaZ1.jpg",
-                "size": "L",
-                "colour": "Negru",
-                "material": "Piele",
+                "image": "https://harlequinladies.co.uk/wp-content/uploads/2017/10/57c9a9d3e9fa3ed25a26b4b6aec01b6a-rugby-outfits-rugby-gear-300x300.jpg",
+                "size": "All sizes",
+                "colour": "Red/Black",
+                "material": "Leather",
                 "brand": "DS Damat",
-                "description": "Mănuși din piele, cu model, din colecția toamnă-iarnă 2018, DS Damat."
+                "description": "Best collection ever"
             }
         ],
-        "image": "https://i.imgur.com/qw3wDj8.jpg",
-        "name": "Accesorii",
-        "description": "Fulare, căciuli, mănuși: nu mai sta pe gânduri, cumpără-le acuși!"
+        "image": "https://images.unsplash.com/photo-1517340650606-17091f8e86ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Rugby Equipments",
+        "description": "New Brands!"
     }
 }
