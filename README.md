@@ -10,4 +10,7 @@ Click on "Login" - it will redirect you to the Login page, where when you click 
 
 Click on cart (icon) - will display the products added to the cart. By clicking on the "X" icon you can remove a product from the cart
 
+You can see the demo by clicking the link.
+https://react-sports-shop.herokuapp.com/
+
 # Sports-Shop
